@@ -1,4 +1,5 @@
-CSE240BW20 final project for rramkuma
+CSE240BW20 final project for artiwari
+
 
 This directory contains an implementation of project for cse240b winter 2020
 
